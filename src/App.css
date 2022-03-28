@@ -28,6 +28,18 @@
   color: #61dafb;
 }
 
+ul.playlist {
+  list-style-type: none;
+}
+.playlist {
+  padding: 10px;
+  border: 1px solid #ddd;
+  cursor: pointer;
+}
+.vidcontainer {
+  height: 400px;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
